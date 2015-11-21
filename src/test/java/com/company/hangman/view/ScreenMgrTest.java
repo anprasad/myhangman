@@ -3,8 +3,8 @@ package com.company.hangman.view;
 import org.junit.Test;
 
 /**
- * @author      Amit Prasad  email: amit_n_p@sympatico.ca
- * @version     1.0
+ * @author      Amit Prasad
+ * @version     0.0.1
  * @since       2015-11-15
  */
 public class ScreenMgrTest {
